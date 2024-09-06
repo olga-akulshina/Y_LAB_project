@@ -1,0 +1,18 @@
+/* InputField.module.css */
+.formGroup {
+    margin-bottom: 16px;
+}
+
+.label {
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    border-color:rgb(171, 178, 178);
+}
